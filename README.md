@@ -1,4 +1,4 @@
-# Go-Cortado: learn a gradient boosted decision trees classifier (ala Xgboost).
+# Go-Cortado: learn a gradient boosted decision tree classifier (similar to Xgboost).
 
 Status: Initial port complete. Needs generalization of the algorithm.
 
