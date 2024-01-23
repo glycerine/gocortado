@@ -1,0 +1,7 @@
+const SLICELENGTH = 100000
+
+const MISSINGLEVEL = "."
+
+const HEADLENGTH = 20
+
+const JUMLDIR = "JuML"
