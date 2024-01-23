@@ -2,7 +2,7 @@
 
 Status: Initial port complete. Needs generalization of the algorithm.
 
-- The cortado project is Adam's GBDT (Gradient Boosted Decision Tree) classifier in python
+- The cortado project is Adam Mlocek's GBDT (Gradient Boosted Decision Tree) classifier in python
 that utilizes lazy sequences and the numba JIT-compiler 
 for numeric python code.
 
