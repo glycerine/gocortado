@@ -16,9 +16,11 @@ airline training data set.
 - Generalization beyond the initial training data set 
 is missing from the original cortado code and from this Go port.
 
-Theoretically, this should not be too hard to add. The 
-current code would need the existing training data set available 
-in order to do any prediction on out-of-sample data.
+Theoretically, this should not be too hard to add, but
+it needs a design for the data structure in which to
+store the decision tree. The 
+current code needs the training data set available 
+in order to do prediction on new out-of-sample data.
 
 ~~~
 go test -v -run Test005_airline_data_test
